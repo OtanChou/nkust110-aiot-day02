@@ -1,0 +1,1194 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=1, minimum-scale=1.0, maximum-scale=3.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="keywords" content="國立高雄科技大學,NKUST,National Kaohsiung University of Science and Technology,高科大" />
+<meta name="description" content="國立高雄科技大學（英語譯名：National Kaohsiung University of Science and Technology），簡稱高雄科大、高科大、高科 、NKUST。 是一所位於高雄市的國立科技大學，為臺灣學生人數規模第二大的國立大學，僅次於國立臺灣大學。由國立高雄第一科技大學、國立高雄海洋科技大學、國立高雄應用科技大學三校於2018年合併新設而成。三校資源整合以「創新創業」、「海洋科技」、「親產優質」為發展主軸。根據URAP世界大學排名2018-2019年全國科大排名第三，僅次於臺灣科大、臺北科大，南部科大排名第一，高雄科大也受教育部高等教育深耕計畫每年經費所補助全國科大排名第一。" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142388825-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142388825-3');
+</script>
+
+<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10070464'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<title>HOT NEWS  - 國立高雄科技大學,NKUST,National Kaohsiung University of Science and Technology</title>
+
+<link rel="shortcut icon" href="/var/file/0/1000/msys_1000_5641621_64001.ico" type="image/x-icon" />
+<link rel="icon" href="/var/file/0/1000/msys_1000_5641621_64001.ico" type="image/x-icon" />
+<link rel="bookmark" href="/var/file/0/1000/msys_1000_5641621_64001.ico" type="image/x-icon" />
+
+<link rel="apple-touch-icon-precomposed" href="/var/file/0/1000/msys_1000_5641621_64001.ico">
+
+<link rel="stylesheet" href="/var/file/0/1000/mobilestyle/combine-zh-tw.css?t=1650127492" type="text/css" />
+<script language="javascript"><!--
+ var isHome = false 
+ --></script>
+<script type="text/javascript" src="/var/file/js/m_20210908.js" ></script>
+</head>
+ 
+<body class="page_mobilercglist webfree">
+<div class="wrap">
+
+
+<a href="#start-C" class="focusable" title="跳到主要內容區">跳到主要內容區</a>
+
+
+<div class="fpbgvideo"></div>
+<div class="minner">
+
+<div id="Dyn_head">
+<div class="header">
+	<div class="minner ">
+
+
+
+
+
+
+
+	
+<div class="selfhead">
+		<div class="meditor">
+	
+      
+      <div class="header_02"><!--第一行-->
+<div class="top_first">
+<div class="top_first_main container">
+<ul class="topnav1">
+	<li><a accesskey="U" href="#U" id="AU" name="U" title="上方內容區塊">:::</a></li>
+	<!--<li><a href="#">回首頁</a>|</li>-->
+	<li><a href="/p/17-1000.php" title="網站導覽">網站導覽</a>|</li>
+	<li><a href="https://webap0.nkust.edu.tw/nkust/" target="_blank" title="校務系統(另開新視窗)">校務系統</a>|</li>
+	<li><a href="https://www.lib.nkust.edu.tw/portal/" target="_blank" title="圖書館(另開新視窗)">圖書館</a>|</li>
+	<!--<li><a href="#">校務暨財務公開資訊</a>|</li>-->
+	<li><a href="/p/404-1000-4177.php" title="連絡我們">連絡我們</a>|</li>
+	<li><a href="https://secretary.nkust.edu.tw/p/412-1002-135.php?Lang=zh-tw" target="_blank" title="電子報(另開新視窗)">電子報</a>|</li>
+	<li><a href="https://news.nkust.edu.tw" target="_blank" title="公告網站(另開視窗)">公告網站</a>|</li>
+	<li><a href="https://www.nkust.edu.tw/p/404-1000-4622.php" title="行事曆">行事曆</a>|</li>
+	<li><a href="https://go.nkust.edu.tw/" target="_blank" title="國立高雄科技大學Mail(另開新視窗)">Mail</a>|</li>
+	<!--<li><a href="/p/404-1000-4615.php" title="舊網頁">舊網頁</a>|</li>-->
+	<li><a href="https://eng.nkust.edu.tw/" target="_blank" title="ENGLISH(另開新視窗)">ENGLISH</a></li>
+</ul>
+</div>
+</div>
+<!--第二行-->
+
+<div class="top_second container">
+<div class="logo">
+<h1 style="margin:0;"><a href="/index.php" title="國立高雄科技大學"><img alt="國立高雄科技大學 校徽 LOGO" height="" src="/var/file/0/1000/img/513/182513897.png" width="400" /> </a></h1>
+</div>
+<!--搜索phone-->
+
+<div class="search_phone"><a aria-controls="collapseExample" aria-expanded="false" class="btn btn-primary navbar-toggle1" data-toggle="collapse" href="#collapseExample" role="button">搜索 </a>
+
+<div class="collapse" id="collapseExample">
+<div class="well">
+<div id="hd_search">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<!--第三行-->
+
+<div class="top_third">
+<div class="top_third_main container">
+<div class="mycollapse"><button class="navbar-toggle" data-target=".nav-toggle" data-toggle="collapse" type="button"><span class="glyphicons show_lines">Menu</span></button>
+
+<div class="navbar-collapse collapse nav-toggle" id="collapseExample2">
+<div class="well">
+<ul class="topnav2">
+	<li><a href="https://www.nkust.edu.tw/p/405-1000-46616,c7048.php" target="_self" title="未來學生">未來學生</a>|</li>
+	<li><a href="https://www.nkust.edu.tw/p/405-1000-45113,c7048.php" target="_self" title="在學學生">在學學生</a>|</li>
+	<li><a href="https://www.nkust.edu.tw/p/405-1000-45747,c7048.php" target="_self" title="國際生(International Students)">國際生(International Students)</a>|</li>
+	<li><a href="https://www.nkust.edu.tw/p/405-1000-45314,c7048.php" target="_self" title="教師職員">教師職員</a>|</li>
+	<li><a href="https://www.nkust.edu.tw/p/405-1000-45727,c7048.php" target="_self" title="校友">校友</a>|</li>
+	<li><a href="https://www.nkust.edu.tw/p/405-1000-45749,c7048.php" target="_self" title="訪客">訪客</a>|</li>
+</ul>
+
+   
+
+
+
+
+
+
+<div class="mnavbar mn-collapse">
+	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-toggle">
+		<span class="glyphicons show_lines">Menu</span>
+	</button>
+	<div class="nav-toggle collapse navbar-collapse iosScrollToggle">
+		<div class="hdmenu">
+			<ul class="nav navbar-nav" id="a27257348f5052bf8d5ffeb13db843c2b_MenuTop">
+			
+				<li   id="Hln_8" ><a  href="/app/index.php" title="回首頁">回首頁</a></li>
+			
+				<li   id="Hln_343" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="/p/412-1000-82.php?Lang=zh-tw" title="關於我們">關於我們</a><ul class="dropdown-menu"><li  id="Hln_1332"><a href="https://www.nkust.edu.tw/p/412-1000-617.php" title="高科大簡介">高科大簡介</a></li><li  id="Hln_1333"><a href="https://www.nkust.edu.tw/p/412-1000-1024.php" title="學校特色">學校特色</a></li><li  id="Hln_1334"><a href="https://www.nkust.edu.tw/p/412-1000-1025.php" title="發展願景">發展願景</a></li><li  id="Hln_1335"><a href="https://www.nkust.edu.tw/p/412-1000-1047.php" title="重要辦學績效">重要辦學績效</a></li><li  id="Hln_5459"><a href="https://sdgs.nkust.edu.tw/" target="_blank"  title="高科大永續承諾(另開新視窗)">高科大永續承諾</a></li><li  id="Hln_1336"><a href="https://secretary.nkust.edu.tw/p/412-1002-135.php?Lang=zh-tw" target="_blank"  title="高科電子報(另開新視窗)">高科電子報</a></li><li  id="Hln_1337"><a href="https://www.nkust.edu.tw/p/412-1000-1055.php" title="校史專區">校史專區</a></li><li  id="Hln_1752"><a href="https://www.nkust.edu.tw/p/412-1000-2797.php" title="高科大散步地圖">高科大散步地圖</a></li><li  id="Hln_3828"><a href="/p/412-1000-5514.php" title="無障礙設施導覽圖">無障礙設施導覽圖</a></li></ul></li>
+			
+				<li   id="Hln_344" ><a  href="/p/412-1000-4169.php" title="學術單位">學術單位</a></li>
+			
+				<li   id="Hln_345" ><a  href="/p/412-1000-85.php?Lang=zh-tw" title="行政單位">行政單位</a></li>
+			
+				<li   id="Hln_1811" ><a  href="https://b066.nkust.edu.tw" target="_blank"  title="校務程序調整(另開新視窗)">校務程序調整</a></li>
+			
+				<li   id="Hln_1172" ><a  href="https://rule.nkust.edu.tw/" target="_blank"  title="法規彙編(另開新視窗)">法規彙編</a></li>
+			
+				<li   id="Hln_347" ><a  href="https://giving.nkust.edu.tw/" target="_blank"  title="捐贈興學(另開新視窗)">捐贈興學</a></li>
+			
+				<li   id="Hln_346" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="https://ada.nkust.edu.tw/" target="_blank"  title="招生資訊(另開新視窗)">招生資訊</a><ul class="dropdown-menu"><li  id="Hln_1644"><a href="https://ada.nkust.edu.tw/" target="_blank"  title="招生資訊網(另開新視窗)">招生資訊網</a></li><li  id="Hln_1645"><a href="https://cee.nkust.edu.tw/p/426-1024-3.php" target="_blank"  title="推教終身學習網(另開新視窗)">推教終身學習網</a></li></ul></li>
+			
+				<li   id="Hln_1173" ><a  href="https://enterschool.nkust.edu.tw/" target="_blank"  title="新生專區(另開新視窗)">新生專區</a></li>
+			
+				<li   id="Hln_1278" ><a  href="https://public.nkust.edu.tw" target="_blank"  title="校務資訊公開(另開新視窗)">校務資訊公開</a></li>
+			
+				<li   id="Hln_2429" ><a  href="https://gender.nkust.edu.tw/" target="_blank"  title="性別平等專區(另開新視窗)">性別平等專區</a></li>
+			
+				<li   id="Hln_2308" ><a  href="/p/412-1000-3248.php" title="形象識別系統(校徽)下載">形象識別系統(校徽)下載</a></li>
+			
+				<li   id="Hln_3782" ><a  href="https://2019-ncov.nkust.edu.tw/" target="_blank"  title="防疫專區(另開新視窗)">防疫專區</a></li>
+			
+				<li   id="Hln_3902" ><a  href="http://higheredu.nkust.edu.tw/" target="_blank"  title="高教深耕計畫(另開新視窗)">高教深耕計畫</a></li>
+			
+				<li   id="Hln_4579" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0)" title="產學服務">產學服務</a><ul class="dropdown-menu"><li  id="Hln_4580"><a href="http://ird.nkust.edu.tw/" target="_blank"  title="研究發展處(另開新視窗)">研究發展處</a></li><li  id="Hln_4581"><a href="https://ord.nkust.edu.tw/" target="_blank"  title="產學營運處(另開新視窗)">產學營運處</a></li><li  id="Hln_4582"><a href="https://ord.nkust.edu.tw/p/412-1009-6268.php" target="_blank"  title="校級研究中心(另開新視窗)">校級研究中心</a></li></ul></li>
+			
+				<li   id="Hln_5464" ><a  href="https://www.nkust.edu.tw/p/412-1000-8401.php" title="畢典專區">畢典專區</a></li>
+			
+			
+			</ul>
+		</div>
+	</div>
+</div>
+
+<script>
+$(document).ready(function(){
+	$(".mnavbar .navbar-toggle").click(function(){
+		$(this).toggleClass("open");
+	});
+   $('.iosScrollToggle').on('shown.bs.collapse', function () {
+		var togglePos = $(this).css('position');
+      if(togglePos !== 'static'){
+          ModalHelper.afterOpen();
+      }
+
+    });
+
+    $('.iosScrollToggle').on('hide.bs.collapse', function () {
+		var togglePos = $(this).css('position');
+      if(togglePos !== 'static'){
+			ModalHelper.beforeClose();
+      }
+
+    });
+	
+});
+</script>
+
+
+
+
+	
+      
+      </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+$('.navbar-toggle1[href="#collapseExample"]').click(function(){
+  if($('.nav-toggle').hasClass('in')){
+    $('.navbar-toggle[data-target=".nav-toggle"]').removeClass('open');
+    $('.nav-toggle').removeClass('in').css({'height': '1px', 'overflow':'hidden'});
+  }
+  $(this).toggleClass('open');
+});
+
+$('.navbar-toggle[data-target=".nav-toggle"]').click(function(){
+    if($('#collapseExample').hasClass('in')){
+        $('.navbar-toggle1[href="#collapseExample"]').removeClass('open');
+        $('#collapseExample').removeClass('in').css({'height': '1px', 'overflow':'hidden'});
+    }
+    $(this).toggleClass('open');
+});
+
+$(document).ready(function(){
+$.hajaxOpenUrl("/app/index.php?Action=mobileloadmod&Type=mobilesch&Nbr=0",'#hd_search');
+});
+
+</script>
+   
+	</div>
+</div>
+
+
+
+
+	</div>
+</div>
+<script language="javascript">
+tabSwitch("a27257348f5052bf8d5ffeb13db843c2b_MenuTop");
+function getCookie(name) {
+  cookie = " "+document.cookie;
+  offset = cookie.indexOf(" "+name+"=");
+  if (offset == -1) return undefined;
+  offset += name.length+2;
+  end     = cookie.indexOf(";", offset)
+  if (end == -1) end = cookie.length;
+  return decodeURIComponent(cookie.substring(offset, end));
+}
+if(typeof(_LoginHln)=='undefined') var _LoginHln = new hashUtil();
+
+if(typeof(_LogoutHln)=='undefined') var _LogoutHln = new hashUtil();
+
+if(typeof(_HomeHln)=='undefined') var _HomeHln = new hashUtil();
+
+if(typeof(_InternalHln)=='undefined') var _InternalHln = new hashUtil();
+_InternalHln.put("8","Hln_"+"8");
+
+if(typeof(loginStat)=='undefined') {
+	var UidCookie = new strUtil(getCookie("Cust"));
+	if(UidCookie.trim()!="") loginStat="login";
+	else loginStat="logout";
+}
+dealHln(isHome,loginStat,$('div.hdmenu'));
+$(document).ready(function(){
+	
+});
+</script>
+<noscript>本功能需使用支援JavaScript之瀏覽器才能正常操作</noscript>
+<!-- generated at Mon Jul 04 2022 12:05:32 --></div>
+
+
+<div class="main">
+<div class="minner">
+
+	
+	
+<div class="row col1 row_0">
+	<div class="mrow container">
+		
+			
+			
+			
+			 
+		
+			
+			
+			
+			
+				
+        		
+         	
+				<div class="col col_02">
+					<div class="mcol">
+					
+						
+						
+						<div id="Dyn_2_1" class="M42  ">
+
+<div class="module module-um md_style99">
+   <div class="mouter">
+	<header class="mt mthide ">
+	 
+	
+</header>
+
+	<section class="mb">
+		<div class="minner">
+			<div class="meditor">
+			<a href="#start-C" title='主要內容區' accesskey="C" style="text-decoration:none" id="start-C">:::</a> 
+			</div>
+		</div>
+	</section>
+	</div>
+</div>
+
+<!-- generated at Tue Jun 21 2022 16:26:52 --></div>
+
+					
+						
+						
+						<div id="Dyn_2_2" class="M3  ">
+
+<div class="module module-path md_style1">
+	<div class="minner">
+		<section class="mb">
+			<ol class="breadcrumb">
+			
+			
+				
+				
+				<li><a href="/index.php">首頁</a></li>
+				
+				
+			
+				
+				
+				
+            <li class="active"><a href="https://www.nkust.edu.tw/p/403-1000-1363-1.php">HOT NEWS</a></li>
+				
+			
+			</ol>
+		</section>
+	</div>
+</div>
+
+</div>
+
+					
+						
+						
+						<div id="Dyn_2_3" class="M39  ">
+<script type="text/javascript">
+$(document).ready(function(){
+var a = [];
+
+a.push({name:'Rcg',value:'1363'});
+
+//a.push({name:'Rss',value:});
+var option = {
+	pageMode:'2',
+	currentPage:1,
+	flag:0,
+	over:0,
+	url:'/app/index.php?Action=mobilercglist',
+	urlPrefix:  'https://www.nkust.edu.tw/p/403-1000-1363-PAGE.php?Lang=zh-tw',
+	totalPage:48,
+	Op:'getpartlist',
+	param:a,
+	pageListObj:$("#pageptlist"),
+	nextPageObj:$("#_ptlist_next_page")
+}
+var ptpagelist = new HvPagelist();
+ptpagelist.init(option);
+
+
+$("#_ptlist_gonext").click(function(){
+	ptpagelist.goNextPage();
+});
+$("#_ptlist_goprev").click(function(){
+	ptpagelist.goPrePage();
+});
+/*
+$("#_ptlist_select-page").change(function(){
+	ptpagelist.goPage(this.value);
+});
+*/
+
+$("#_ptlist_gofirst").click(function(){
+	ptpagelist.goPage(1);
+});
+$("#_ptlist_golast").click(function(){
+	ptpagelist.goPage(48);
+});
+
+$("._ptlist_gopage").click(function(){
+	ptpagelist.goPage(parseInt($(this).text()));
+});
+
+$("#_ptlist_gotopage").click(function(){
+	ptpagelist.goPage(parseInt($("#goto_page_demo_pag1").val()));
+});
+
+
+
+
+});
+</script>
+<div class="module module-rcglist md_style2">
+	<header class="mt mthide ">
+	 
+	
+</header>
+
+	<section class="mb">
+	
+	
+	<div id="pageptlist">
+	
+	<div class="row listBS">
+	
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="高科大衛武營簽署MOU 合作推展南部美感教育及展演活動"><img src="/var/file/0/1000/pictures/649/m/mczh-tw400x400_small59817_407797947505.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-59817,r1363.php"  title="高科大衛武營簽署MOU 合作推展南部美感教育及展演活動">
+				高科大衛武營簽署MOU 合作推展南部美感教育及展演活動
+			</a>
+			
+			<i class="mdate after">2022-07-01 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">國立高雄科技大學一直以來致力於為科大校園注入美學與人文素養，希望培育出兼具專業技能及文藝內涵的人才。高科大昨(30)日與衛武營國家藝術文化中心簽署合作備忘錄，將和衛武營合作發展更多美感、藝術課程及及展演活動，從藝文推廣，到學生實習，到學術和教學面的計畫，都將成為未來的合作重點。由於高科大校長楊慶煜非常重視學生的美感、人文藝術薰陶，讓雙方的合作充滿非常多創造性的可能，也將實驗性從共同教育學院推動微學分課程。</p>
+
+<p style="text-align: justify;">高科大和衛武營藝術中心昨(30)日下午在衛武營演講廳簽署合作備忘錄，由高科大校長楊慶煜與...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="菲國友人榮任部長 台菲學術交流盼持續深化"><img src="/var/file/0/1000/pictures/56/m/mczh-tw400x400_small59719_376195981763.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-59719,r1363.php"  title="菲國友人榮任部長 台菲學術交流盼持續深化">
+				菲國友人榮任部長 台菲學術交流盼持續深化
+			</a>
+			
+			<i class="mdate after">2022-06-28 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">高雄市東南亞教育交流協會(Edu-Connect) 理事長、高雄科技大學校長楊慶煜24日在高科大主持台菲學術交流會議，並祝賀協會的兩位摯友，前國立菲律賓大學系統(UP)總校長巴斯克華(Alfredo Pascual)、前曼達路永市(Mandaluyong) 市長阿巴洛斯(Benjamin Benhur Abalos Jr.)，分別將接任菲律賓「貿易暨工業部」部長和「內政暨地方政府部」部長，期盼台菲雙方未來在學術界、產業界有更多的合作，強化彼此的夥伴關係。</p>
+
+<p style="text-align: justify;">菲律賓總統當選人小馬可仕（Ferdin...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="高科大科工館簽署ＭＯＵ　實驗室退役儀器將成收藏工藝品"><img src="/var/file/0/1000/pictures/564/m/mczh-tw400x400_small59657_582019339394.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-59657,r1363.php"  title="高科大科工館簽署ＭＯＵ　實驗室退役儀器將成收藏工藝品">
+				高科大科工館簽署ＭＯＵ　實驗室退役儀器將成收藏工藝品
+			</a>
+			
+			<i class="mdate after">2022-06-25 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p>國立高雄科技大學與國立科學工藝博物館昨(24日)簽署合作備忘錄，雙方除了促進教學與科學領域的交流合作外，未來高科大校內實驗室、研究室退役的儀器與設備，將篩選合適物件成為科工館的收藏品。特別是科工館展出定位，即為展示科技的發展以及科技對人類社會的影響，加上高科大是南部重要的產業教育重鎮，同時也蘊藏豐富的研究能量，因此高科大所保留的產業機具、實驗設備等，都將成為展示科學發展脈絡的重要資產。</p>
+
+<p>高科大校長楊慶煜表示，透過(認識早期的)機具設備可幫助同學了解到其所學對人類進步的貢獻，對工程技術的理解也會...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="高科大出版首份永續報告書 目標2028年達成碳中和"><img src="/var/file/0/1000/pictures/765/m/mczh-tw400x400_small59447_136468307277.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-59447,r1363.php"  title="高科大出版首份永續報告書 目標2028年達成碳中和">
+				高科大出版首份永續報告書 目標2028年達成碳中和
+			</a>
+			
+			<i class="mdate after">2022-06-20 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">2021年國立高雄科技大學併校邁入第四年，同年本校也出版了首份《2020永續發展報告書》(Sustainability Report)，宣示高科大實踐永續發展理念的決心。高科大將建構2030年永續發展藍圖，透過教學、研究、產學、校園建設等方面，朝聯合國十七項永續發展目標邁進，並積極推動節能與綠能研究與應用，高科大計畫於2028年成為一所碳中和大學。</p>
+
+<p style="text-align: justify;">高科大正與台灣和世界並肩走在永續發展的路上，永續治理是高科大現在及未來發展茁壯的核心價值，而永續發展的關鍵性策略之一，即是學校育才的同時也能善盡社...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="守護海洋拒絕「網」來 高科大與澎湖縣府號召志工一起清除覆網"><img src="/var/file/0/1000/pictures/588/m/mczh-tw400x400_small59816_499054946670.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-59816,r1363.php"  title="守護海洋拒絕「網」來 高科大與澎湖縣府號召志工一起清除覆網">
+				守護海洋拒絕「網」來 高科大與澎湖縣府號召志工一起清除覆網
+			</a>
+			
+			<i class="mdate after">2022-06-17 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">處理海洋廢棄物是一項極具挑戰的任務，也是最直接有助於海洋生態保育的事。澎湖縣政府與國立高雄科技大學海洋事務研究中心107年開始攜手清除海底覆網，創全國先驅建立志工培訓制度與訓練課程，今年的專案培訓課程再升級，加入珊瑚礁健康監測技能與水下攝影技巧，盼號召更多人一起守護海洋，共創永續島嶼。</p>
+
+<p style="text-align: justify;">當世界各地為了地球永續發展，如火如荼實踐聯合國推動的「2030永續發展目標」(Sustainable Development Goals, SDGs)之際，澎湖縣政府與高科大海洋事務研究中心已默默合作長達四年時...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="撒部・噶照用創作傳達海的訊息 建工藝文個展浪漫登場"><img src="/var/file/0/1000/pictures/581/m/mczh-tw400x400_small59115_98054649605.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-59115,r1363.php"  title="撒部・噶照用創作傳達海的訊息 建工藝文個展浪漫登場">
+				撒部・噶照用創作傳達海的訊息 建工藝文個展浪漫登場
+			</a>
+			
+			<i class="mdate after">2022-06-10 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">「關於海，你想到什麼？」出生花蓮的撒部・噶照從事創作十餘年，從每日海洋的變化、海風吹來的訊息，結合自身生命經驗，傾吐對土地的情感。撒部・噶照近期在國立高雄科技大學建工校區藝文中心舉辦個展，創作橫跨繪畫、雕塑、音樂3種形式，透過視覺、聽覺，豐富觀者對於海洋的各種想像。</p>
+
+<p style="text-align: justify;">撒部‧噶照生長於花蓮東海岸 Makuta&rsquo;ay 部落(港口部落)，創作以海洋為主軸，傳達海洋對於海岸阿美族的重要性，關注傳承部落文化、山林與海洋環境問題。其創作形式多元，包括雕刻、泥塑、裝置、編織、繪畫、音樂等，作品風格呈現海洋波...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="高科大上進夫妻檔假日進修 畢業雙喜臨門迎二寶"><img src="/var/file/0/1000/pictures/104/m/mczh-tw400x400_small59067_552440164869.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-59067,r1363.php"  title="高科大上進夫妻檔假日進修 畢業雙喜臨門迎二寶">
+				高科大上進夫妻檔假日進修 畢業雙喜臨門迎二寶
+			</a>
+			
+			<i class="mdate after">2022-06-09 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">六月驪歌響起，疫情之下的畢業典禮今年改採線上辦理，然而，畢業生的精彩表現卻不容抹滅。高科大附設進修學院今年畢業生中有一對年輕夫妻檔，利用假日通勤進修，充實專業知識，上進態度令老師和同學印象深刻，更巧的是畢業正好迎來二寶誕生，可說是雙喜臨門，先生李建諄說，「時間點真的很巧」，要是早一點報到可能會手忙腳亂。</p>
+
+<p style="text-align: justify;">李建諄和太太謝靜宜同樣服務於台鐵，非本科系出身的兩人，考取公務員後，有感於專業知識不足，於是報考高科大進修學院二技假日班學程。對念書興趣不高的李建諄，本來只是跟著太太一起進修，後來發現透過學習...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="高科大環境教育推廣攜手USR 邀企業政府一起翻轉在地"><img src="/var/file/0/1000/pictures/992/m/mczh-tw400x400_small58919_900996193075.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-58919,r1363.php"  title="高科大環境教育推廣攜手USR 邀企業政府一起翻轉在地">
+				高科大環境教育推廣攜手USR 邀企業政府一起翻轉在地
+			</a>
+			
+			<i class="mdate after">2022-06-06 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">國立高雄科技大學能源科技研究中心/永續發展中心、環境教育機構與環境與安全衛生工程系大學社會責任實踐計畫「智慧守望，環境再生」計畫&mdash;(e-WATCHER)於在地深耕多年，攜手策畫並於日前舉辦「翻轉在地-永續發展、地方創生與社區再造共學工作坊」，期望凝結各方資源投入地方創生，挖掘在地DNA、擬出發展策略，不但翻轉社區，也落實在地永續的目標。</p>
+
+<p style="text-align: justify;">台灣2020年首次發生人口負成長，目前已是高齡化社會的台灣，預估在2026年邁入超高齡社會。青壯年人口往都市移動，鄉村產業勞動力不足，使得城鄉發展的差距持續擴...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="高科大導入智慧車聯網 助小琉球規劃低碳旅行"><img src="/var/file/0/1000/pictures/572/m/mczh-tw400x400_small58490_239637717594.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-58490,r1363.php"  title="高科大導入智慧車聯網 助小琉球規劃低碳旅行">
+				高科大導入智慧車聯網 助小琉球規劃低碳旅行
+			</a>
+			
+			<i class="mdate after">2022-05-23 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">國立高雄科技大學創新創業教育中心和工業設計系、資訊管理系109年開始共同推動「心.慢活-新.旅遊-小琉球智慧車聯網輕旅導入計畫」，與小琉球在地電動車出租業者合作導入車聯網技術，開發多元智慧車聯網，達到即時性與使用者互動，有利於租車業進行訊號發報與收集，藉此進行觀光景點和遊客的人流分析，推動具有特色的在地低碳小旅行。</p>
+
+<p style="text-align: justify;">工業設計系主任宋毅仁與資訊管理系老師朱彥銘合作指導學生團隊，一同為小琉球租車業者設計製作30組基地台及60組發報器，由資管系團隊設計發報器的軟體設備，工設系團隊則為軟體設備設計具小...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="文創系畢展放視大賞登場 溺水世代躍出水面追夢"><img src="/var/file/0/1000/pictures/844/m/mczh-tw400x400_small58366_777972909890.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-58366,r1363.php"  title="文創系畢展放視大賞登場 溺水世代躍出水面追夢">
+				文創系畢展放視大賞登場 溺水世代躍出水面追夢
+			</a>
+			
+			<i class="mdate after">2022-05-20 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">高科大文化創意產業系107級畢業展18日在高雄展覽館《2022放視大賞》盛大開幕。放視大賞由經濟部工業局主辦，已累積超過10年的舉辦歷史，是全國最具指標性的數位設計展。除了聚集全台各設計類專門校系設展，也有包含智崴、夢想等超過50家民間企業參與，直接提供學生與產業的人才媒合機會。高科大校長楊慶煜特別到場為參展師生打氣加油，勉勵文創系學生具備後疫情時代的競爭力，畢業後將到各行業發光發熱。</p>
+
+<p style="text-align: justify;">文創系今年的畢展主題是「溺水世代」，描述每個人可能都曾在混亂的世界中迷失自己，載浮載沉之間，終會摸清方向，躍...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="高科大研發太陽能電動車首亮相 將啟程多次環島試跑(另開新視窗)"><img src="/var/file/0/1000/pictures/117/m/mczh-tw400x400_small58330_677333930234.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-58330,r1363.php" target="_blank"   title="高科大研發太陽能電動車首亮相 將啟程多次環島試跑(另開新視窗)">
+				高科大研發太陽能電動車首亮相 將啟程多次環島試跑
+			</a>
+			
+			<i class="mdate after">2022-05-19 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">南台灣一年一度最大的專業展&ndash;2022高雄自動化工業展日前在高雄展覽館登場，身為南部重要產業人才培育基地的國立高雄科技大學並未缺席，不但展出18項師生研發的技術和設備，還精選學校55件科技部計畫衍生專利成果，現場還有首度亮相的第九代阿波羅太陽能電動車，相當吸睛，團隊正申請試車牌，計畫6月上路環島，挑戰繞台灣一圈不充電，展現這款太陽能電動車的高節能特色。</p>
+
+<p style="text-align: justify;">高科大模具系教授艾和昌帶領學生投入太陽能車電動車研發與製作技術近25年，從第一代阿波羅號至今，已研發到第九代，並多次出國比賽獲得優異成績揚名國際...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		</div><div class="row listBS">
+	
+		
+		<div class="d-item h-il-td col-sm-12">
+<div class="mbox">
+	<div class="d-img mimg-rounded">
+		<a  title="高科大多項作品入圍金點新秀 新一代設計展即將揭曉"><img src="/var/file/0/1000/pictures/983/m/mczh-tw400x400_small57657_724170214565.jpg"  class="img-responsive" alt="" /></a>
+	</div>
+	<div class="d-txt">
+		<div class="mtitle">
+			
+			<a href="https://www.nkust.edu.tw/p/406-1000-57657,r1363.php"  title="高科大多項作品入圍金點新秀 新一代設計展即將揭曉">
+				高科大多項作品入圍金點新秀 新一代設計展即將揭曉
+			</a>
+			
+			<i class="mdate after">2022-05-05 </i>
+			
+		</div>
+		<div class="mdetail">
+			
+			<p style="text-align: justify;">新一代設計展是國內設計新秀的重要舞台，高科大工業設計系近年來表現亮眼，今年的應屆畢業生共入圍金點新秀設計獎6個獎次，其中「RESCALE 餘麟造物」一舉入圍3個獎項，另外金點新秀廠商贊助特別獎則入圍11個獎次，結果將在6月登場的新一代設計展揭曉。</p>
+
+<p style="text-align: justify;">入圍作品於甫結束的工設系畢業展「群像世界𝗗𝗬𝗡𝗔𝗠𝗜𝗖」搶先曝光，作品從漁業廢棄物到土木工程人員使用的A型工作梯，領域多元，其中還有不少關懷身心障礙者的設計作品，像是為身障者打造美觀實用的輪椅車、為視障者開發的食物賞味期貼片，創新之餘，...</p>
+			
+		</div>
+	</div>
+	
+</div>
+</div>
+
+		
+	
+	</div>
+
+
+	</div>
+	
+	
+	 <div class="mpgbar"> 
+   
+		
+			<nav class="mpgbar" aria-label="Page navigation">
+				 <ul class="pagination">
+					
+					
+						
+						<li class="active"><a href="javascript:void(0)" class="_ptlist_gopage" title="1">1</a></li>
+					
+						
+						<li ><a href="javascript:void(0)" class="_ptlist_gopage" title="2">2</a></li>
+					
+						
+						<li ><a href="javascript:void(0)" class="_ptlist_gopage" title="3">3</a></li>
+					
+						
+						<li ><a href="javascript:void(0)" class="_ptlist_gopage" title="4">4</a></li>
+					
+						
+						<li ><a href="javascript:void(0)" class="_ptlist_gopage" title="5">5</a></li>
+					
+						
+						<li ><a href="javascript:void(0)" class="_ptlist_gopage" title="6">6</a></li>
+					
+
+					
+					  <li class="pg-next">
+						<a href="javascript:void(0)" id="_ptlist_gonext" class="mbtn pg-next" title="下一頁"><span>></span></a>
+					  </li>
+						<li class="pg-last"><a href="javascript:void(0)" id="_ptlist_golast" title="最後一頁">>></a></li>
+					
+				 </ul>
+				 <span class="pg-txt">共48頁</span>
+				 <div class="page-goto">
+					  <span class="pg-txt"><label for="goto_page_demo_pag1">到</label></span>
+					  <div class="input-group">
+							
+							<input id="goto_page_demo_pag1" type="text" title="第2頁" class="form-control" placeholder="1" value="2">
+							<span class="input-group-btn">
+								 <button class="btn btn-default" type="button" id="_ptlist_gotopage">Go</button>
+							</span>
+					  </div>
+				 </div>
+			</nav>
+		
+	
+</div>
+
+<style type="text/css">
+            .page-goto,
+            .mpgbar {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .mpgbar .input-group {
+                max-width: 100px;
+            }
+            .mpgbar .form-control {
+                text-align: center;
+            }
+            .mpgbar .pg-txt {
+                padding: 6px 12px;
+            }
+            .mpgbar .pagination {
+                display: block;
+            }
+            @media(max-width: 768px) {
+                .mpgbar { flex-direction: column; }
+                .mpgbar .pg-first,
+                .mpgbar .pg-last,
+                .mpgbar > .pg-txt {
+                    display: none;
+                }
+            }
+        </style>
+
+	</section>
+</div>
+</div>
+
+					
+					</div>
+				</div> 
+			 
+		
+			
+			
+			
+			 
+		
+	</div>
+</div>
+	
+
+</div>
+</div>
+
+<style>
+@media (min-width: 481px) {.row_0 .col_01 { width: 0%;}.row_0 .col_02 { width: 100%;}.row_0 .col_03 { width: 0%;}}
+</style>
+
+<div id="Dyn_footer">
+<div class="footer">
+<div class="minner ">
+
+<div id="Dyn_mobilecounter" class="M45 M45_0  "></div>
+<script language="javascript" >
+ $(document).ready(function(){ $.hajaxOpenUrl('/app/index.php?Action=mobileloadmod&Type=mobilecounter&Nbr=','#Dyn_mobilecounter');
+ });
+ </script>
+
+
+
+
+
+
+<div class="copyright">
+<div class="meditor">
+	<div class="bt_first" style="position:relative;"><a accesskey="B" href="#B" name="B" style="position:absolute; left:1.6em; top:8px; color:#fff;">:::</a>
+<ul>
+	<li>第一校區 824005 高雄市燕巢區大學路1號<br />
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;811532 高雄市楠梓區卓越路2號<br />
+	電話：07-6011000</li>
+	<li>建工校區 807618&nbsp;高雄市三民區建工路415號<br />
+	燕巢校區 824004 高雄市燕巢區深中路58號<br />
+	電話：07-3814526</li>
+	<li>楠梓校區 811213 高雄市楠梓區海專路142號<br />
+	電話：07-3617141<br />
+	旗津校區 805301 高雄市旗津區中洲三路482號<br />
+	電話：07-8100888</li>
+</ul>
+<!--<h style=" font-size:0em; color:rgba(0,0,0,0); opacity:0; filter:alpha(opacity=0); margin:0;">&nbsp;</h></div>-->
+
+<div class="bt_second">
+<ul>
+	<li><a href="https://www.nkust.edu.tw/var/file/0/1000/img/75/758435432.pdf" target="_blank" title="【開啟PDF檔】行政單位聯絡窗口(另開新視窗)">行政單位聯絡窗口</a>|</li>
+	<li><a href="https://www.nkust.edu.tw/p/412-1000-1920.php" title="交通資訊">交通資訊</a>|</li>
+	<!--<li><a href="https://www.nkust.edu.tw/p/412-1000-1921.php"  title="校園導覽">校園導覽</a>|</li>-->
+	<li><a href="https://www.nkust.edu.tw/p/412-1000-2797.php" title="高科大散步地圖">高科大散步地圖</a>|</li>
+	<li><a href="https://www.nkust.edu.tw/p/404-1000-4421.php" title="隱私保護聲明">隱私保護聲明</a>|</li>
+</ul>
+&nbsp;
+
+<ul>
+	<li><a href="https://www.youtube.com/channel/UCk7QGAi2QAFrH63mPPX-apw/" target="_blank" title="高科大youtube(另開新視窗)"><img alt="高科大youtube" height="32" src="/var/file/0/1000/img/2/iconfinder_youtube_circle_294712.png" style="border-width: 0px; border-style: solid;" width="32" /></a></li>
+	<li><a href="https://www.facebook.com/NKUST2018" target="_blank" title="高科大FB(另開新視窗)"><img alt="高科大FB" height="32" src="/var/file/0/1000/img/2/iconfinder_Facebook-icon_380455.png" style="border-width: 0px; border-style: solid;" width="32" /></a></li>
+	<li><a href="https://accessibility.ncc.gov.tw/Applications/Detail?category=20210823115656" target="_blank" title="無障礙網站"><img alt="通過AA檢測等級無障礙網頁檢測" height="31" src="https://accessibility.ncc.gov.tw/ImagesUploads/05bfd164-030e-448f-b83b-37c7dcb01eec.jpg" style="border-width: 0px; border-style: solid;" title="通過AA檢測等級無障礙網頁檢測_另開視窗" width="88" /> </a></li>
+</ul>
+</div>
+
+<p>Copyright &copy; 2018 國立高雄科技大學 NKUST</p>
+
+<p>&nbsp;</p>
+<style type="text/css">.module-rss .mdate.before {
+    margin-left: 15px;
+}
+.module-rss .mdate:before {
+    content: "活動日期：";
+}
+.module-rss .v-td .d-txt {
+    display: flex;
+    flex-direction: column-reverse;
+}
+header.mt.mt-subhead {
+background: #D1A43F;
+    display: block;
+    padding: 10px 0 20px;
+    font-size: 1.8rem;
+    margin: 0;
+}
+.module-rss header.mt.mt-subhead {
+    background: #4d2aa1;
+}
+.mt-subhead > * {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #fff;
+    text-align: center;
+    line-height: 15px;
+}
+.dropdown-toggle:focus {
+    outline: 5px auto -webkit-focus-ring-color;
+}
+.d-title .d-txt > h5 {
+    position: relative;
+    z-index: 2;
+    padding: 5px;
+    text-align: left;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.row_1 div.col_02 .module-special .d-title h5 {
+    margin: 0;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.module .d-title .d-txt h5, .module-special .d-title .d-txt h5 {
+    display: block;
+}
+
+.d-txt > h5 {
+    font-size: 1.0em;
+    line-height: 1.5em;
+    /*text-align: center;*/
+}
+.row_0 .module-special h5 {
+    padding-left: 16px;
+    position: relative;
+    text-align: left;
+}
+
+.page_mobilehome .row_1 div.col_03 .module-special {
+    padding: .2em 2.5em .5em;
+    background: url(/var/file/0/1000/mobilestyle/485/images/mo_bg.jpg) no-repeat center;
+    background-size: cover;
+    padding-top: 1.2em;
+}
+
+//NEW
+.more {}
+
+.row_0 .module-special .mb .more {
+    position: relative;
+    top: 0px;
+    right: 0;
+    z-index: 999;
+}
+
+
+.minner .mt .mt-title {
+    background: #4d2aa1;
+}
+.mouter .mt .mt-title {
+    background: #D1A43F;
+}
+.M18925 .md_style99 .minner .mt .mt-title {
+    background: #a12a46;
+}
+.row_0 .col_02 { //首頁的底色變色
+    //width: 65%;
+    //background: #6b679f30;
+}
+
+
+.mtitle {
+    position: relative;
+    z-index: 2;
+    padding: 5px;
+    border-bottom: 1px solid #d6d6d6;
+}
+.M18918  .module .minner .mb {//最新消息 背景色 灰
+    padding-top: 1em;
+    background-color: #eaeae6;
+}
+.M18922  .module .minner .mb {//遠見 背景色 灰
+    padding-top: 1em;
+    background-color: #eaeae6;
+}
+
+
+.row_0 {     
+    background: url(https://cc.nkust.edu.tw/var/file/25/1025/img/412/2022-01-20_102942.png);
+}
+.row_1 {     
+    background: url(https://cc.nkust.edu.tw/var/file/25/1025/img/412/2022-01-20_102942.png);
+}
+.row_0 .container {
+background: #fff;
+    box-shadow: 0px 0 10px 0px rgb(0 0 0/ 40%);
+    border-bottom: 4px solid #314589; 
+
+}
+
+.row_0 .module-special .mtitle {
+    padding-left: 16px;
+    position: relative;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.mdetail {
+    text-align: left;
+    line-height: 26px;
+    margin-top: 0.5em;
+    font-size: 1.0em;
+}
+.mt .mt-title {
+    font-size: 1.3em;
+    color: #eee;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 0;
+}
+@media screen  and (max-width: 1200px){
+.mt .mt-title {
+    font-size: 1.1em;
+    color: #eee;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 0;
+    line-height: 20px;
+}
+}
+</style>
+</div>
+
+	
+</div>
+</div>
+
+
+	<button class="toTop" title="回到頂部">
+    	<span>回到頂部</span>
+	</button>
+<script>
+	// 返回頂部
+	$(document).ready(function(){
+	    gotop();
+	}); 
+	$(window).scroll(function(){
+	    gotop();
+	});
+	$('.toTop').click(function(){
+	    $('html, body, .wrap').animate({scrollTop: '0px'}, 200);
+	});
+	function gotop(){
+	    var  winH = $(window).height();
+	    var  scroll = $(window).scrollTop();
+	    if(scroll > 100 ){
+	        $('.toTop').show();
+	    }
+	    else {
+	        $('.toTop').hide();
+	    }
+	}
+	</script>
+
+
+
+
+</div>
+</div>
+<!-- generated at Tue Jun 21 2022 16:26:53 --></div>
+
+
+</div>
+</div>
+<div class="fpbgvideo"></div>
+
+
+
+
+<div id="_pop_login" class="mpopdiv">
+<script>$(document).ready(function() {$.hajaxOpenUrl('/app/index.php?Action=mobileloadmod&Type=mobilepoplogin&Nbr=0','#_pop_login','',function(){menuDropAct();});})</script>
+</div>
+
+
+<div id="_pop_tips" class="mtips">
+	<div class="mbox">
+	</div>
+</div>
+<div id="_pop_dialog" class="mdialog">
+	<div class="minner">
+		<div class="mcont">
+		</div>
+		<footer class="mdialog-foot">
+        	<button type="submit" class="mbtn mbtn-s">OK</button>
+        	<button type="submit" class="mbtn mbtn-c">Cancel</button>
+		</footer>
+	</div>
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142388825-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142388825-3');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 619207031 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-619207031"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-619207031');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142388825-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142388825-1');
+</script>
+<!--<script>NProgress.done();</script>-->
+<script>
+function popChkLogin(){
+	var cookie = new Cookie();
+	if(cookie.existCookie("Cust")) return true;
+	else return false;
+}
+</script>
+<!-- generated at Tue Jul 05 2022 09:32:10 --></body></html>
